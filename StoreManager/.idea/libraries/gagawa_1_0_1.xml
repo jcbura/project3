@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="gagawa-1.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../project3/WebServer_Micro/gagawa-1.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
